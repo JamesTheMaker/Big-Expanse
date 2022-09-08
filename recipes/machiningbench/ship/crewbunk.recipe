@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 10 },
+    { "item" : "leather", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "crewbunk",
+    "count" : 1
+  },
+  "duration" : 1,
+  "groups" : [ "craftingmachining", "ship", "all" ]
+}

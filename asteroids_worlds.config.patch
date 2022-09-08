@@ -1,0 +1,3 @@
+[
+  { "op": "replace", "path": "/threatRange", "value": [1, 6] }
+]

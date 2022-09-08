@@ -1,0 +1,19 @@
+[
+  { "op": "replace", "path": "/shipStatus", "value": {
+      "0" : {
+        "animation" : "unique",
+        "text" : "> Zzz... Zzz... Zzz...",
+        "speedModifier" : 0.1
+      },
+      "1" : {
+        "animation" : "talk",
+        "text" : "^#6f6f6f;$ status -f
+^white;> Teleportation: ^green;Online
+^white;> Hull Integrity: ^green;100%
+^white;> Pressurization: ^green;100%
+^#6f6f6f;$ _",
+        "speedModifier" : 0.7
+      }
+    }
+  }
+]

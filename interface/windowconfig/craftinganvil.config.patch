@@ -1,0 +1,17 @@
+[
+  { "op": "add", "path": "/paneLayout/lblToolTab", "value": {
+    "type" : "image",
+    "file" : "/interface/crafting/tabicon_tools.png",
+    "position" : [131, 221],
+    "zlevel" : 3
+  } },
+
+  { "op": "add", "path": "/paneLayout/categories/buttons/-", "value": {
+    "position" : [126, 221],
+    "baseImage" : "/interface/crafting/unselectedTab.png",
+    "baseImageChecked" : "/interface/crafting/selectedTab.png",
+    "data" : {
+      "filter" : [ "tools" ]
+    }
+  } }
+]

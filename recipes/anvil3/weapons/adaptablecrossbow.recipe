@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 10 },
+    { "item" : "scorchedcore", "count" : 5 },
+    { "item" : "cryonicextract", "count" : 5 },
+    { "item" : "venomsample", "count" : 5 },
+    { "item" : "staticcell", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "adaptablecrossbow",
+    "count" : 1
+  },
+  "groups" : [ "craftinganvil3", "weapons", "all" ]
+}

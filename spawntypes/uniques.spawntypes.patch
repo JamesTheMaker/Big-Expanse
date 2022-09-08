@@ -1,0 +1,38 @@
+[
+  { "op": "add", "path": "/-", "value": {
+      "name" : "asteroidmasteroid",
+
+      "spawnParameters" : {
+        "area" : "air",
+        "region" : "all",
+        "time" : "all"
+      },
+      "groupSize" : [2, 3],
+      "spawnChance" : 0.001,
+      "monsterType" : [
+        [1, "masteroid"]
+      ],
+      "monsterParameters" : {
+        "aggressive" : true
+      }
+    }
+  },
+  { "op": "add", "path": "/-", "value": {
+      "name" : "asteroidmasteroidmid",
+
+      "spawnParameters" : {
+        "area" : "air",
+        "region" : "all",
+        "time" : "all"
+      },
+      "groupSize" : [1, 1],
+      "spawnChance" : 0.002,
+      "monsterType" : [
+        [1, "masteroidmid"]
+      ],
+      "monsterParameters" : {
+        "aggressive" : true
+      }
+    }
+  }
+]

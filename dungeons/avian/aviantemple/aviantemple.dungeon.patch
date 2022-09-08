@@ -1,0 +1,42 @@
+[
+	{
+		"op": "add",
+		"path": "/tiles/-",
+		"value": {
+			"value": [
+				40,
+				177,
+				155,
+				255
+			],
+			"comment": "kluex omg",
+			"brush": [
+				[
+					"npc",
+					{
+						"kind": "monster",
+						"typeName": "kluexbossstatue",
+						"parameters": {
+							"musicStagehands": [
+								"bossmusic"
+							]
+						}
+					}
+				]
+			]
+		}
+	},
+	{
+		"op": "replace",
+		"path": "/parts/22/def/1",
+		"value": [
+			"9alt.png",
+			"9-objectsalt.png"
+		]
+	},
+	{
+		"op": "replace",
+		"path": "/parts/22/chance",
+		"value": 10
+	}
+]

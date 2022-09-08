@@ -1,0 +1,17 @@
+[
+  // ===========================================================================
+  // Monster Spawning
+  // ===========================================================================
+  { "op": "replace",
+  "path": "/spawnProfile/groups", "value": [
+      {
+        "select" : 3,
+        "pool" : [
+          [ 1, "asteroidskimbus" ],
+          [ 1, "asteroidmasteroid"],
+          [ 1, "asteroidmasteroidmid"]
+        ]
+      }
+    ]
+  }
+]

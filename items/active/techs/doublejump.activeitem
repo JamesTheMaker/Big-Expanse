@@ -1,0 +1,14 @@
+{
+  "itemName" : "doublejump",
+  "rarity" : "Uncommon",
+  "category" : "Tech",
+  "description" : "Jump in the air to gain a small upward boost.",
+  "shortdescription" : "Pulse Jump",
+
+  "inventoryIcon" : "activetech.png",
+
+  "scripts" : ["/items/active/techs/activetech.lua"],
+  "techUnlock" : "doublejump",
+
+  "learnBlueprintsOnPickup" : [ "multijump", "rocketjump", "walljump" ]
+}

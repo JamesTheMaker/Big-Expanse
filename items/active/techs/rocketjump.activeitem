@@ -1,0 +1,12 @@
+{
+  "itemName" : "rocketjump",
+  "rarity" : "Legendary",
+  "category" : "Tech",
+  "description" : "Upgrades your Pulse Jump to charge up a powerful directional boost.",
+  "shortdescription" : "Rocket Jump",
+
+  "inventoryIcon" : "activetech.png",
+
+  "scripts" : ["/items/active/techs/activetech.lua"],
+  "techUnlock" : "rocketjump"
+}

@@ -1,0 +1,50 @@
+{
+  "objectName" : "machiningbench",
+  "colonyTags" : ["crafting"],
+  "category" : "crafting",
+  "rarity" : "Uncommon",
+  "description" : "Craft complicated technologies with this bench.",
+  "shortdescription" : "^orange;Machining Table^white;",
+  "race" : "generic",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/craftingmachining.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : " Machining Bench",
+        "subtitle" : " ^#b9b5b2;Crafting with machines",
+        "icon" : {
+          "file" : "/interface/crafting/craftingicon.png"
+        }
+      }
+    },
+    "filter" : [ "craftingmachining" ]
+  },
+  "printable" : false,
+  "price" : 65,
+
+  "apexDescription" : "A machining table. Relatively primitive to what the Apex use, but it works.",
+  "avianDescription" : "A bench with tools to machine with.",
+  "floranDescription" : "Floran doessn't like machining tools, they make loud noisesss.",
+  "glitchDescription" : "Intrigued. Very complicated and intracate things can be made with this.",
+  "humanDescription" : "These things were used a lot during the industrial era.",
+  "hylotlDescription" : "We Hylotl use these a lot for signage.",
+  "novakidDescription" : "A machinin' bench. We don't really use these.",
+
+  "inventoryIcon" : "machiningbenchicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "machiningbench.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "npcToy" : {}
+}

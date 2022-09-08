@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 25 },
+    { "item" : "corefragmentore", "count" : 20 },
+    { "item" : "battery", "count" : 5 },
+    { "item" : "supermatter", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "ftldrive",
+    "count" : 1
+  },
+  "duration" : 5,
+  "groups" : [ "inventorstable", "craftingstations", "all" ]
+}

@@ -1,0 +1,3 @@
+[
+  { "op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Return to ^orange;Dr. Akaggy^reset; at the ^orange;Mech Workshop^reset;" }
+]

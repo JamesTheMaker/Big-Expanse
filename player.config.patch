@@ -1,0 +1,55 @@
+[
+  // ===========================================================================
+  // Default Recipes
+  // ===========================================================================
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "platinumbar" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "imperviumcompound" } },
+
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "copperpickaxe" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "goldpickaxe" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "silverpickaxe" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "diamondpickaxe" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "platinumpickaxe" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "copperdrill" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "diamonddrill" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "golddrill" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "platinumdrill" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "silverdrill" } },
+
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "blackteleporter" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "brassteleporter" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "futureteleporter" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "scienceteleporter" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "stoneteleporter" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "tombteleporter" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "woodenteleporter" } },
+
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "distortionsphere" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "dash" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "doublejump" } },
+
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "machiningbench" } },
+
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "ftldrive" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "crewbunk" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "fueltank" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "thruster" } },
+
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "henegg" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "robothenegg" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "mooshiegg" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "fluffaloegg" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "firefluffaloegg" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "poisonfluffaloegg" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "icefluffaloegg" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "electricfluffaloegg" } },
+
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "adaptablecrossbow" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "giantbowhead" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "perfectlygenericitem" } },
+
+  // ===========================================================================
+  // Generic Script Contexts
+  // ===========================================================================
+  { "op": "add", "path": "/genericScriptContexts/ship", "value": "/scripts/player/ship.lua" }
+]

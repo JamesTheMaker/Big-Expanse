@@ -1,0 +1,12 @@
+{
+  "itemName" : "spikesphere",
+  "rarity" : "Legendary",
+  "category" : "Tech",
+  "description" : "Transform into a sphere that can climb walls!",
+  "shortdescription" : "Spike Sphere",
+
+  "inventoryIcon" : "activetech.png",
+
+  "scripts" : ["/items/active/techs/activetech.lua"],
+  "techUnlock" : "spikesphere"
+}

@@ -1,0 +1,28 @@
+[
+  { "op": "replace", "path": "/contentPages", "value": [
+    "^yellow;ASSIGNMENT^white;
+
+Upon the request of Asra Nox herself, the Occasus Research team on board the Dantalion have began an investigation into the nature of the lifeform or lifeforms associated with the now-deceased entity more commonly referred to as the \"Ruin\".
+
+The entity was unfortunately destroyed a long time ago by an individual referred to as the \"Cultivator\", much to the chagrin of Lady Nox.",
+
+"Nox has explained, however, that the Ruin was sharded into many, smaller pieces that explorers have named \"Tentacomets\".
+
+Nox believes that these Tentacomets might give the Occasus some insight into its powers, and how they may be harnessed.
+
+Fortunately Lady Nox managed to acquire a sample from a Tentacomet she encountered in her travels.",
+
+"^yellow;ANALYSIS^white;
+
+The findings from these specimens has continued to be fascinating. They do not act as independent organisms - their synapses are more akin to wireless radios, broadcasting sensory information across space and dimensions.
+
+We believe they are communicating to other Tentacomets. It is unanimous amongst the research team that if the Tentacomets could somehow reunite, the result would be truly devastating.",
+
+"^yellow;CONCLUSION^white;
+
+Solving the Ruin's talents for cross-dimensional transportation could be incredibly valuable to the Occasus. We are all aware of the Ruin's ability to communicate (and maybe travel) across dimensions thanks to these samples and harnessing this could result in new horizons for our cause.
+
+Research continues."
+
+  ] }
+]

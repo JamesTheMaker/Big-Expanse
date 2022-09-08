@@ -1,0 +1,6 @@
+[
+  { "op": "remove", "path": "/cockpitViewSettings/backgrounds/0" },
+  { "op": "replace", "path": "/cockpitViewSettings/backgroundColor", "value": [0, 0, 0] },
+
+  { "op": "replace", "path": "/jumpFuelCost", "value": 50 }
+]

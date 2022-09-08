@@ -1,0 +1,5 @@
+[
+  { "op": "add", "path": "/rarity", "value": "Legendary" },
+
+  { "op": "replace", "path": "/shortdescription", "value": "^#800080;Erchius Crystal" }
+]

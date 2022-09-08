@@ -1,0 +1,14 @@
+[
+  { "op": "replace", "path": "/cultistmission02/senderName", "value": "Captain Noble" },
+  { "op": "replace", "path": "/cultistmission02/portraitImage", "value": "/interface/chatbubbles/captain.png:<frame>" },
+  { "op": "replace", "path": "/cultistmission02/text",
+  "value": "It appears you can use this sommon your mech on this platform, partner!" },
+
+  { "op": "replace", "path": "/cultistmission07/senderName", "value": "Captain Noble" },
+  { "op": "replace", "path": "/cultistmission07/portraitImage", "value": "/interface/chatbubbles/captain.png:<frame>" },
+  { "op": "replace", "path": "/cultistmission07/text",
+  "value": "These are some mighty creepy creatures here. Do you have any idea what she's fixin' to do with 'em, Partner?" },
+
+  { "op": "replace", "path": "/cultistmission09a/text",
+  "value": "Don't keep me waiting, \"Peacekeeper\"." }
+]

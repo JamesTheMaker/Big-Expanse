@@ -1,0 +1,10 @@
+[
+  { "op": "replace", "path": "/offeredQuests/0", "value": "driverepair" },
+
+  { "op": "replace", "path": "/shipPetType", "value": "petorbis" },
+
+  { "op": "replace", "path": "/dialog/wakeUp/3/0", "value": "The ship's FTL Drive was damaged in our escape. It is unknown how far we've travelled." },
+  { "op": "replace", "path": "/dialog/wakeUp/4/0", "value": "Records indicate I warned you against purchasing the drive from that Penguin 'businessman.'" },
+  { "op": "add", "path": "/dialog/wakeUp/-", "value": [ "Fortunately, scans of the planet below indicate a resource capable of capacitating combustion.", "/ai/portraits/apexportrait.png:talk.0" ] },
+  { "op": "add", "path": "/dialog/wakeUp/-", "value": [ "You can utilize this resource to repair the FTL Drive.", "/ai/portraits/apexportrait.png:talk.1" ] }
+]

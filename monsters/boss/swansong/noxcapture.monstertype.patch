@@ -1,0 +1,7 @@
+[
+  { "op": "replace", "path": "/baseParameters/dialog", "value": [
+    "Hngh... I seemed to have underestimated you again.",
+    "So you win this time - 'woe is me.'",
+    "But believe me when I say I will return and finish what I started."
+  ] }
+]

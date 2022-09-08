@@ -1,0 +1,38 @@
+[
+  { "op": "remove", "path": "/findStarterWorldParameters/requiredSystemWorlds" },
+
+  { "op": "replace", "path": "/speciesShips/apex", "value": [
+    "/ships/starship/starshipT0.structure",
+    "/ships/starship/starshipT1.structure"
+  ] },
+
+  { "op": "replace", "path": "/speciesShips/avian", "value": [
+    "/ships/starship/starshipT0.structure",
+    "/ships/starship/starshipT1.structure"
+  ] },
+
+  { "op": "replace", "path": "/speciesShips/floran", "value": [
+    "/ships/starship/starshipT0.structure",
+    "/ships/starship/starshipT1.structure"
+  ] },
+
+  { "op": "replace", "path": "/speciesShips/glitch", "value": [
+    "/ships/starship/starshipT0.structure",
+    "/ships/starship/starshipT1.structure"
+  ] },
+
+  { "op": "replace", "path": "/speciesShips/human", "value": [
+    "/ships/starship/starshipT0.structure",
+    "/ships/starship/starshipT1.structure"
+  ] },
+
+  { "op": "replace", "path": "/speciesShips/hylotl", "value": [
+    "/ships/starship/starshipT0.structure",
+    "/ships/starship/starshipT1.structure"
+  ] },
+
+  { "op": "replace", "path": "/speciesShips/novakid", "value": [
+    "/ships/starship/starshipT0.structure",
+    "/ships/starship/starshipT1.structure"
+  ] }
+]

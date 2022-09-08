@@ -1,0 +1,25 @@
+{
+  "modId" : 360,
+  "modName" : "supermatterore",
+  "itemDrop" : "supermatter",
+  "description" : "A crystal used to power FTL technology. It's still not fully understood.",
+  "shortdescription" : "Erchius Crystal",
+  "glitchDescription" : "Intrigued. Erchius crystals contain a mysterious power.",
+  "floranDescription" : "Shiny giant crystalss.",
+  "novakidDescription" : "A big ol' erchius crystal.",
+  "health" : 30,
+  "harvestLevel" : 5,
+  "breaksWithTile" : true,
+
+  "miningSounds" : [ "/sfx/tools/pickaxe_ore.ogg", "/sfx/tools/pickaxe_ore2.ogg" ],
+  "miningParticle" : "orespark",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "supermatterore.png",
+    "variants" : 5,
+    "multiColored" : false,
+    "zLevel" : 0,
+    "radiantLight" : [90, 20, 90]
+  }
+}

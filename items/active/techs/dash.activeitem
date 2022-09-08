@@ -1,0 +1,14 @@
+{
+  "itemName" : "dash",
+  "rarity" : "Uncommon",
+  "category" : "Tech",
+  "description" : "Double walk to quickly dash!",
+  "shortdescription" : "Dash",
+
+  "inventoryIcon" : "activetech.png",
+
+  "scripts" : ["/items/active/techs/activetech.lua"],
+  "techUnlock" : "dash",
+
+  "learnBlueprintsOnPickup" : [ "airdash", "sprint", "blinkdash" ]
+}

@@ -1,0 +1,16 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : [ ],
+      "shipSpeed" : 5.0,
+      "crewSize": 0,
+      "maxFuel": 100,
+      "fuelEfficiency" : 0.0
+    }
+  },
+
+  "backgroundOverlays" : [ ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "starshipblocks.png"
+}

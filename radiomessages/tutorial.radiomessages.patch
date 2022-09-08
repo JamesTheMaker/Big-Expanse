@@ -1,0 +1,10 @@
+[
+  { "op": "replace", "path": "/naturalcave1/text",
+    "value": "I am detecting a variety of life signs in this mine. If you are intending to search it for the resource, I may advise adequately arming yourself first." },
+  { "op": "replace", "path": "/naturalcave2/text",
+    "value": "If you are not sufficiently confident in your personal combat capabilities, an alternative solution would be to dig closer to the planet's center to find the resource." },
+  { "op": "replace", "path": "/fuel/text",
+    "value": "Erchius fuel for your FTL drive can be mined from moons. It should be noted that all moons scanned have delivered strange, unpleasant and indecipherable readings." },
+  { "op": "replace", "path": "/pickupcorefrag/text",
+    "value": "You discovered the resource! These, according to records, are core fragments. I estimate that you will require at least 20 of them." }
+]

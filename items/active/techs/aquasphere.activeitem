@@ -1,0 +1,12 @@
+{
+  "itemName" : "aquasphere",
+  "rarity" : "Legendary",
+  "category" : "Tech",
+  "description" : "Turn into a sphere and move quickly across liquids!",
+  "shortdescription" : "Aqua Sphere",
+
+  "inventoryIcon" : "activetech.png",
+
+  "scripts" : ["/items/active/techs/activetech.lua"],
+  "techUnlock" : "aquasphere"
+}

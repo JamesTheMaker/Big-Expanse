@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 10 },
+    { "item" : "silverbar", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "silverpickaxe",
+    "count" : 1
+  },
+  "duration" : 1,
+  "groups" : [ "craftinganvil", "tools", "all" ]
+}

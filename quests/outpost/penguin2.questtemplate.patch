@@ -1,0 +1,5 @@
+[
+  { "op": "replace", "path": "/completionText", "value": "Thanks for the intense testing session, friendo - it gave me a lot of useful data!" },
+
+  { "op": "replace", "path": "/scriptConfig/descriptions/turnIn", "value": "Return to ^orange;Dr. Akaggy^reset; at the ^orange;Mech Workshop^reset;" }
+]

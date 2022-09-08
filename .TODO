@@ -1,0 +1,40 @@
+=============== OUTPOST ===============
+ ✓- Reimplement Outpost (Dumbass)
+ ✓- Do it without Ark (Also dumbass)
+
+=============== EXPLORATION ===============
+ ✓- Dungeon Overhaul (Planets have specific dungeons)
+ ✓- Planet Overhaul (Habital zones, closer to star is hotter, etc.)
+
+=============== BYOS ===============
+ ✓- Broken FTL Drive (In ship by default, break for parts to craft working FTL Drive)
+ ✓- Thruster (Increases Ship Speed by 10; requires wiring to FTL Drive)
+ ✓- FTL Drive (Supports three thrusters)
+ ✓- Fuel Tank (Increases Fuel Capacity by 100)
+ ✓- Crew Bunk (Use Lunar Base Bunk as base, increases Crew Size by 1)
+ ✓- Ship Updater (Upgrade ship (somehow))
+ ✓- Ship Part Crafting Station
+
+=============== BOSSES ===============
+ ✓- Kluex Avatar (Avian Temple)
+ ✓- Big Ape (Apex Research Lab)
+ - Ixodoom (Floran Hunting Caverns)
+ - Erchius Horror (Lunar Mining Base (New Dungeon))
+
+=============== POLISH ===============
+ ✓- Change SAIL Messages
+
+=============== FUTURE SHIT ===============
+ - Varying HarvestLevels to bottleneck progression
+ - Make EPPs universal (they have rechargeable batteries)
+ - New U.S.C.M themed intro
+ - Racial Factions (Excluding Florans and Novakid)
+  *  Humans: USCM
+  *  Apex: Miniknog (Vanilla; don't need to do)
+  *  Avian: Hyper-religious
+  *  Glitch: Medieval Hierarchy (Technological access depends on royal power)
+  *  Hylotl: Japan
+ - New Starts
+  *  Magnetic Star
+  *  Exotic Star
+  *  Black Hole

@@ -1,0 +1,12 @@
+{
+  "itemName" : "sprint",
+  "rarity" : "Legendary",
+  "category" : "Tech",
+  "description" : "Replaces the dash with a sprint which costs energy!",
+  "shortdescription" : "Sprint",
+
+  "inventoryIcon" : "activetech.png",
+
+  "scripts" : ["/items/active/techs/activetech.lua"],
+  "techUnlock" : "sprint"
+}

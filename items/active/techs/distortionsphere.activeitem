@@ -1,0 +1,14 @@
+{
+  "itemName" : "distortionsphere",
+  "rarity" : "Uncommon",
+  "category" : "Tech",
+  "description" : "Turn into a sphere that can fit into smaller places!",
+  "shortdescription" : "Distortion Sphere",
+
+  "inventoryIcon" : "activetech.png",
+
+  "scripts" : ["/items/active/techs/activetech.lua"],
+  "techUnlock" : "distortionsphere",
+
+  "learnBlueprintsOnPickup" : [ "aquasphere", "sonicsphere", "spikesphere" ]
+}

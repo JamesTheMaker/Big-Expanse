@@ -1,0 +1,8 @@
+[
+    { "op": "replace", "path": "/rarity", "value": "Uncommon" },
+
+    { "op": "replace", "path": "/category", "value": "craftingMaterial" },
+    { "op": "replace", "path": "/description", "value": "It's platinum. Can be used for smelting." },
+
+    { "op": "add", "path": "/itemTags", "value": [ "reagent" ] }
+]

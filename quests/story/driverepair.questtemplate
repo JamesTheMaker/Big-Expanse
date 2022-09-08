@@ -1,0 +1,48 @@
+{
+  "id" : "driverepair",
+  "prerequisites" : [ "bootship" ],
+  "mainQuest" : true,
+  "title" : "Fixing Your Drive",
+  "text" : "We are currently in orbit around an unknown world. The ship's FTL Drive is heavily damaged and we cannot leave orbit. I suggest you ^green;beam down to the planet's surface using the ^orange;teleporter^white;, and search for the ^orange;resource^white; we need to repair it.",
+  "completionText" : "Now that the ^orange;FTL Drive^white; is functional, you can now travel ^green;anywhere in the universe^white;. I have also recieved an unknown broadcast and have set the signal's point of origin to the ^orange;teleporter's^white; bookmarks.",
+  "moneyRange" : [50, 50],
+  "rewards" : [
+    [ ["ftldrive", 0] ]
+  ],
+  "canBeAbandoned" : false,
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/story/driverepair.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : "sail",
+      "questComplete" : "sail"
+    },
+
+    "descriptions" : {
+      "collectResource" : "Collect the ^orange;resource^reset;",
+      "collectCoreFragment" : "Collect ^orange;Core Fragments^reset;",
+      "repairDrive" : "Repair the ^orange;FTL Drive^reset;"
+    },
+
+    "compassUpdate" : 0.2,
+
+    "techstationUid" : "techstation",
+
+    // applied when quest is started
+    "shipUpgrade" : {
+      "capabilities" : ["teleport"]
+    },
+
+    "driveRepairItem" : "corefragmentore",
+    "driveRepairCount" : 20,
+
+    "driveItem" : "ftldrive",
+
+    "outpostBookmark" : {
+      "bookmarkName" : "Outpost - 2 Stop Teleshop",
+      "targetName" : "",
+      "icon" : "outpost",
+      "target" : ["instanceworld:outpost", "outpost"]
+    }
+  }
+}

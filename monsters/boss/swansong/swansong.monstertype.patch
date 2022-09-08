@@ -1,0 +1,8 @@
+[
+  { "op": "replace", "path": "/baseParameters/openingDialog", "value": [
+    "I knew you'd come. I seemed to have underestimated you.",
+    "My underlings warned me about you, \"Peacekeeper\", but I didn't listen.",
+    "And now we stand toe to toe. You just don't understand the preeminence of humans, don't you?",
+    "Maybe once I've cleaved your head off you will."
+  ] }
+]

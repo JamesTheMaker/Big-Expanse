@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5in"
+   height="5in"
+   viewBox="0 0 127 127"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="be_logo.svg"
+   inkscape:export-filename="F:\SteamLibrary\steamapps\common\Modbound\mods\Big Expanse 2.0\be_logo.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.1789508"
+     inkscape:cx="509.35119"
+     inkscape:cy="252.76712"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="in"
+     width="10in" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.265976"
+       id="rect12014"
+       width="127"
+       height="127"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       class="st0"
+       d="m 72.708753,85.978134 h -1.17771 c 0,-9.60608 -3.59261,-18.00472 -10.7719,-25.184 -7.179281,-7.17928 -15.571961,-10.77189 -25.183991,-10.77189 v -1.17772 c 9.61203,0 18.00471,-3.59261 25.18399,-10.78974 7.179291,-7.19711 10.771901,-15.58981 10.771901,-25.16615 h 1.177709 c 0,9.60608 3.592621,18.00472 10.7719,25.184 7.17929,7.17928 15.57196,10.77189 25.183988,10.77189 v 1.17772 c -9.606078,0 -18.004698,3.59261 -25.183988,10.77189 -7.17928,7.17928 -10.7719,15.57198 -10.771899,25.184 z"
+       id="path11"
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.594803" />
+    <path
+       class="st0"
+       d="m 97.013086,110.02402 h -0.78761 c 0,-6.42417 -2.4026,-12.040846 -7.20383,-16.842066 -4.80122,-4.80122 -10.41391,-7.20382 -16.84206,-7.20382 v -0.78761 c 6.42815,0 12.04084,-2.4026 16.84206,-7.21576 4.801231,-4.81315 7.20383,-10.42586 7.20383,-16.83014 h 0.78761 c 0,6.42417 2.402601,12.04085 7.203824,16.84207 4.80122,4.80123 10.41392,7.20383 16.84207,7.20383 v 0.78761 c -6.42417,0 -12.04085,2.4026 -16.84207,7.20382 -4.801224,4.80122 -7.203824,10.413926 -7.203824,16.842066 z"
+       id="path11-1"
+       style="clip-rule:evenodd;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke-width:0.397781" />
+    <path
+       class="st0"
+       d="m 36.538592,109.1647 h -0.96344 c 0,-7.85827 -2.93894,-14.728794 -8.811971,-20.601814 -5.87302,-5.87304 -12.73867,-8.811975 -20.6018096,-8.811975 v -0.96343 c 7.8631396,0 14.7287896,-2.93895 20.6018096,-8.82657 5.873031,-5.88762 8.811971,-12.75328 8.811971,-20.58722 h 0.96344 c 0,7.85827 2.93894,14.72879 8.81196,20.60181 5.87302,5.87303 12.73868,8.81198 20.601819,8.81198 v 0.96343 c -7.858269,0 -14.7288,2.938935 -20.60182,8.811975 -5.87302,5.87302 -8.81196,12.738684 -8.811959,20.601814 z"
+       id="path11-1-7"
+       style="clip-rule:evenodd;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.48658" />
+  </g>
+  <style
+     type="text/css"
+     id="style9">.st0{fill-rule:evenodd;clip-rule:evenodd;}</style>
+</svg>

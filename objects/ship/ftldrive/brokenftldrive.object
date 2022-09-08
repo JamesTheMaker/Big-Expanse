@@ -1,0 +1,63 @@
+{
+  "objectName" : "brokenftldrive",
+  "colonyTags" : ["misc"],
+  "rarity" : "Essential",
+  "printable" : false,
+
+  "category" : "other",
+  "price" : 5000,
+  "description" : "A drive essential to FTL travel. This one is however broken...",
+  "shortdescription" : "Broken FTL Drive",
+  "race" : "generic",
+
+  "apexDescription" : "A broken FTL Drive. I need something capable of capacitating combustion to repair it.",
+  "avianDescription" : "A broken FTL Drive. Needs repairs.",
+  "floranDescription" : "Floran's fast machine went kaboom!",
+  "glitchDescription" : "Disappointed. This FTL Drive must be of low quality to break so easily.",
+  "humanDescription" : "It's needless to say I'm not going anywhere anytime soon.",
+  "hylotlDescription" : "I broke my FTL Drive. Great.",
+  "novakidDescription" : "Well this FTL Drive don't seem to be workin'.",
+
+  "inventoryIcon" : "ftldriveicon.png",
+
+  "orientations" : [
+    {
+      "dualImage" : "brokenftldrive.png:<color>.<frame>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+  "particleEmitter" : {
+    "emissionRate" : 1.0,
+    "emissionVariance" : 0.5,
+    "pixelOrigin" : [ 48, 24 ],
+
+    "particle" : {
+      "type" : "ember",
+      "size" : 1.0,
+      "color" : [255, 100, 0, 255],
+      "light" : [150, 50, 50],
+      "fade" : 0.9,
+      "initialVelocity" : [0.0, 5.0],
+      "finalVelocity" : [0.0, 3.0],
+      "approach" : [0, 20],
+      "timeToLive" : 2,
+      "layer" : "middle"
+    },
+
+    "particleVariance" : {
+      "initialVelocity" : [0.5, 2.0]
+    }
+  },
+
+  "smashOnBreak" : true,
+  "health" : 10,
+
+  "scripts": [ "/objects/scripts/smashdrops.lua" ],
+  "smashDrops": [ ["durasteelbar", 25], ["battery", 5], ["supermatter", 1] ]
+}

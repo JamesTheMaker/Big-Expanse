@@ -1,0 +1,12 @@
+{
+  "itemName" : "sonicsphere",
+  "rarity" : "Legendary",
+  "category" : "Tech",
+  "description" : "Perform a sphere dash by transforming!",
+  "shortdescription" : "Sonic Sphere",
+
+  "inventoryIcon" : "activetech.png",
+
+  "scripts" : ["/items/active/techs/activetech.lua"],
+  "techUnlock" : "sonicsphere"
+}

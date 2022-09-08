@@ -1,0 +1,41 @@
+{
+  "objectName" : "ftldrive",
+  "colonyTags" : ["misc"],
+  "rarity" : "Essential",
+  "printable" : false,
+
+  "category" : "Ship",
+  "price" : 10000,
+  "description" : "A drive essential to FTL travel.",
+  "shortdescription" : "^orange;FTL Drive^white;",
+  "race" : "generic",
+
+  "apexDescription" : "A FTL Drive. It permits me to travel lightyears in mere seconds.",
+  "avianDescription" : "A FTL Drive. Allows me to go faster than light.",
+  "floranDescription" : "Floran's fast machine workss now!",
+  "glitchDescription" : "Eager. This FTL Drive allows me to travel very fast.",
+  "humanDescription" : "A FTL Drive. These things used to be works of science fiction.",
+  "hylotlDescription" : "A machine that allows me to go very fast.",
+  "novakidDescription" : "This doohicky allows me to be travellin' very fast.",
+
+  "inventoryIcon" : "ftldriveicon.png",
+
+  "orientations" : [
+    {
+      "dualImage" : "ftldrive.png:<color>.<frame>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 8,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "health": 10,
+
+  "scripts" : [ "/objects/ship/shipstatmod.lua" ],
+  "scriptDelta" : 1,
+  "property" : "ship.drives"
+}

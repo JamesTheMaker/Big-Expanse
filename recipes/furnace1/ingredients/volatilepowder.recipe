@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "corefragmentore", "count" : 2 },
+    { "item" : "sulphur", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "volatilepowder",
+    "count" : 4
+  },
+  "groups" : [ "craftingfurnace", "ingredients", "all" ]
+}

@@ -1,0 +1,39 @@
+[
+	// ===========================================================================
+	// Space Debris (Credits to gay moth aunt)
+	// ===========================================================================
+	{	"op":"replace", "path":"/mainColor", "value": [0,0,0] },
+	{	"op":"replace", "path":"/spaceDebrisFields/0/list", "value": [
+			"/sky/glitters/null.png",
+			"/sky/glitters/null.png",
+			"/sky/glitters/null.png",
+			"/sky/glitters/null.png",
+			"/sky/glitters/null.png",
+			"/sky/glitters/null.png",
+			"/sky/glitters/null.png",
+			"/sky/glitters/null.png"
+		] },
+	{	"op":"replace", "path":"/spaceDebrisFields/1/list", "value": [
+			"/sky/glitters/null.png",
+			"/sky/glitters/null.png",
+			"/sky/glitters/null.png",
+			"/sky/glitters/null.png",
+			"/sky/glitters/null.png",
+			"/sky/glitters/null.png",
+			"/sky/glitters/null.png",
+			"/sky/glitters/null.png"
+		] },
+	{	"op":"replace", "path":"/spaceDebrisFields/2/list", "value": [
+			"/sky/glitters/null.png",
+			"/sky/glitters/null.png",
+			"/sky/glitters/null.png",
+			"/sky/glitters/null.png",
+			"/sky/glitters/null.png",
+			"/sky/glitters/null.png",
+			"/sky/glitters/null.png",
+			"/sky/glitters/null.png"
+		] },
+	{	"op":"replace", "path":"/spaceDebrisFields/3/list", "value": [
+			"/sky/glitters/null.png"
+		] }
+]

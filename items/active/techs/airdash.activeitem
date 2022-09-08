@@ -1,0 +1,12 @@
+{
+  "itemName" : "airdash",
+  "rarity" : "Legendary",
+  "category" : "Tech",
+  "description" : "Upgrades your Dash to be usable in the air.",
+  "shortdescription" : "Air Dash",
+
+  "inventoryIcon" : "activetech.png",
+
+  "scripts" : ["/items/active/techs/activetech.lua"],
+  "techUnlock" : "airdash"
+}

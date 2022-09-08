@@ -1,0 +1,77 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "boosterState" : {
+        "default" : "off",
+        "states" : {
+          "offline" : {
+            "frames" : 1,
+            "cycle" : 1.0,
+            "mode" : "loop"
+          },
+          "off" : {
+            "frames" : 3,
+            "cycle" : 0.3,
+            "mode" : "loop"
+          },
+          "turnOn" : {
+            "frames" : 3,
+            "cycle" : 0.15,
+            "mode" : "transition",
+            "transition" : "on"
+          },
+          "on" : {
+            "frames" : 3,
+            "cycle" : 0.2,
+            "mode" : "loop"
+          },
+          "turnOff" : {
+            "frames" : 3,
+            "cycle" : 0.15,
+            "mode" : "transition",
+            "transition" : "off"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "booster" : {
+        "properties" : {
+          "centered" : false,
+          "fullbright" : true
+        },
+
+        "partStates" : {
+          "boosterState" : {
+            "offline" : {
+              "properties" : {
+                "image" : "<partImage>:nobitches"
+              }
+            },
+            "off" : {
+              "properties" : {
+                "image" : "<partImage>:off.<frame>"
+              }
+            },
+            "turnOn" : {
+              "properties" : {
+                "image" : "<partImage>:turnOn.<frame>"
+              }
+            },
+            "on" : {
+              "properties" : {
+                "image" : "<partImage>:on.<frame>"
+              }
+            },
+            "turnOff" : {
+              "properties" : {
+                "image" : "<partImage>:turnOff.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
